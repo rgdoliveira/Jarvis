@@ -1,4 +1,5 @@
 #!/bin/bash
+set -x
 
 jarvispath=$PWD
 touch jarvis
